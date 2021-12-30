@@ -1,6 +1,6 @@
 # Centro Veterinario JavaScript
 
-![Screenshop](https://raw.githubusercontent.com/Angstromico/consultas-veterinarias-app/master/maxcyn.png)
+![Screenshop](https://raw.githubusercontent.com/Angstromico/consultas-veterinarias-apps/master/maxcyn.png)
 
 ## [Mira la App aquí](https://manuel-morales-consulta-veterinaria.netlify.app/)
 
